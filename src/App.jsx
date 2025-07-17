@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 
 // Configuração da API com fallback
-const API_BASE = 'https://blaze-proxy-brfj.onrender.com/'
+const API_BASE = 'https://proxypy-sa4w.onrender.com/'
 const USE_FALLBACK = true // Ativar dados simulados quando proxy não estiver disponível Data: 
 
 

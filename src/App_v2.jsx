@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 
-const API_BASE = 'https://blaze-proxy-brfj.onrender.com/'
+const API_BASE = 'https://proxypy-sa4w.onrender.com/'
 
 function App() {
   const [activeTab, setActiveTab] = useState('live')

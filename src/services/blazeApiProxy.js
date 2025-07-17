@@ -1,7 +1,7 @@
 // Serviço para conectar ao proxy local do Blaze Double
 class BlazeProxyApiService {
   constructor() {
-    this.proxyUrl = 'https://blaze-proxy-brfj.onrender.com/'
+    this.proxyUrl = 'https://proxypy-sa4w.onrender.com/'
     this.isConnected = false
     this.listeners = []
     this.pollingInterval = null
